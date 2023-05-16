@@ -3,6 +3,6 @@ import { Injectable } from '@nestjs/common';
 @Injectable()
 export class AppService {
   getHello(): string {
-    return 'Hello Famille Camara World!';
+    return 'Hello Famille Camara!';
   }
 }
